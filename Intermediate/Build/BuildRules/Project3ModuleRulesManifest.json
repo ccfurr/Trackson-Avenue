@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"/Users/campbellfurr/Documents/Unreal Projects/Project3/Intermediate/Source/Project3.Build.cs",
+		"/Users/campbellfurr/Documents/Unreal Projects/Project3/Intermediate/Source/Project3.Target.cs",
+		"/Users/campbellfurr/Documents/Unreal Projects/Project3/Intermediate/Source/Project3Client.Target.cs",
+		"/Users/campbellfurr/Documents/Unreal Projects/Project3/Intermediate/Source/Project3Editor.Target.cs",
+		"/Users/campbellfurr/Documents/Unreal Projects/Project3/Intermediate/Source/Project3Server.Target.cs"
+	],
+	"EngineVersion": "5.3.2"
+}

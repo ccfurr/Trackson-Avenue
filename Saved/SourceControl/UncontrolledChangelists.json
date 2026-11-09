@@ -1,0 +1,35 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/campbellfurr/Documents/Unreal Projects/Project3/Content/StarterContent/Maps/StarterMap_BuiltData.uasset",
+				"/Users/campbellfurr/Documents/Unreal Projects/Project3/Content/VehicleTemplate/Maps/VehicleExampleMap.umap",
+				"/Users/campbellfurr/Documents/Unreal Projects/Project3/Content/Rings/Ring.uasset",
+				"/Users/campbellfurr/Documents/Unreal Projects/Project3/Content/Rings/Ring1.uasset",
+				"/Users/campbellfurr/Documents/Unreal Projects/Project3/Content/RaceMode.uasset",
+				"/Users/campbellfurr/Documents/Unreal Projects/Project3/Content/Ring.uasset",
+				"/Users/campbellfurr/Documents/Unreal Projects/Project3/Content/GameUI.uasset",
+				"/Users/campbellfurr/Documents/Unreal Projects/Project3/Content/VehicleTemplate/Blueprints/VehiclePlayerController.uasset",
+				"/Users/campbellfurr/Documents/Unreal Projects/Project3/Content/VehicleTemplate/Blueprints/VehicleAdvPawn.uasset",
+				"/Users/campbellfurr/Documents/Unreal Projects/Project3/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/B/8B/SUHFQLJSRKR1Q15EYIQDFV.uasset",
+				"/Users/campbellfurr/Documents/Unreal Projects/Project3/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/3/2A/72NFVZAY4YKXOZCKG1GLRW.uasset",
+				"/Users/campbellfurr/Documents/Unreal Projects/Project3/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/0/BT/N85KZRMH25UOAGKAIZFSXP.uasset",
+				"/Users/campbellfurr/Documents/Unreal Projects/Project3/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/8/JH/FNGALCDKYQ5CC93CCLEZD4.uasset",
+				"/Users/campbellfurr/Documents/Unreal Projects/Project3/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/7/E9/K0PV5QJAIW34NR6TW4BV5Q.uasset",
+				"/Users/campbellfurr/Documents/Unreal Projects/Project3/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/D/0U/L0T1PLP7UL12934O012ZO4.uasset",
+				"/Users/campbellfurr/Documents/Unreal Projects/Project3/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/0/SR/O7PGNLEMBH5J1ZKQVCHLYY.uasset",
+				"/Users/campbellfurr/Documents/Unreal Projects/Project3/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/2/8Y/S2HNWHY2JSWHYYY3IO8M7T.uasset",
+				"/Users/campbellfurr/Documents/Unreal Projects/Project3/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/6/FK/85PY2T6S3YZNJSUMGKWL1A.uasset",
+				"/Users/campbellfurr/Documents/Unreal Projects/Project3/Content/VehicleTemplate/Blueprints/VehicleUI.uasset",
+				"/Users/campbellfurr/Documents/Unreal Projects/Project3/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/6/OV/83W7IXH4TGHRI72ZDV4BUN.uasset",
+				"/Users/campbellfurr/Documents/Unreal Projects/Project3/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/6/S7/2NX9ZP7Z2SEKB8KO5J9VC2.uasset",
+				"/Users/campbellfurr/Documents/Unreal Projects/Project3/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/C/FV/0ORXDSHBYQOS2A920WHDXV.uasset",
+				"/Users/campbellfurr/Documents/Unreal Projects/Project3/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/B/S4/39R99VDAXF7X1T8FW5O7G5.uasset",
+				"/Users/campbellfurr/Documents/Unreal Projects/Project3/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/2/KA/641DILFS056EAGXA96WARU.uasset"
+			]
+		}
+	]
+}
